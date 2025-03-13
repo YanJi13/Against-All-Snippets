@@ -4,7 +4,7 @@ import {InitializePlayerInfo, AddKillCount, GetKillCount, ResetInfo} from './db.
 const app = express();
 app.use(express.json());
 
-const userName = "YanJi13"
+const userName = "YanJi13" // placeholder username
 
 // create
 app.post('/init', async (req, res) => {

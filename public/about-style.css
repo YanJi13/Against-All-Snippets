@@ -1,0 +1,9 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+#about-main-div {
+    text-align: left;
+    margin-top: 10vh;
+    width: 40vw;
+}

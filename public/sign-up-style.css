@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: antiquewhite;
+}
+#signup-main-div {
+    display: inline-block;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    margin-top: 10vh;
+    width: 12vw;
+}
+.signup-child {
+    padding: 10px;
+}
+#signup-form {
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+}
+.signup-form-element {
+    margin-bottom: 10px;
+    height: 20px;
+}
+.signup-form-submit {
+    margin-top: 30px;
+    background-color: greenyellow;
+    border-radius: 5px;
+    height: 30px;
+}
