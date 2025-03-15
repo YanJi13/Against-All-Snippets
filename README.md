@@ -1,3 +1,5 @@
+Note: this is just a proof of concept of the project
+
 # Against All Snippets
 Against All Snippets is a JS port of [TraceQuest](https://github.com/YanJi13/TraceQuest-v1), a simple game written in  C#
 
